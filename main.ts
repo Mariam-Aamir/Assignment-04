@@ -1,4 +1,4 @@
-//Assingment 04
+//Assignment 04
 
 //storing  the famous Quote and its Author
 
